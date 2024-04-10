@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712723926 source:c:\users\admin\documents\forcodeblock\day nhe\newgame\proj11\guessit\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+
